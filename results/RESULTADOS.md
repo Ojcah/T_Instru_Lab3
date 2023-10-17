@@ -58,21 +58,9 @@ Ahora se adicionando el amplificador operacional se vería de la siguiente forma
 <img src="./images/Placa2_2.jpg" alt="Circuito simulado de switch y amplificador" style="width:55%;" />
 </p>
 
-## Mediciones
-
-<p align="center">
-<img src="./images/optocoupler.jpg" alt="Optoacoplador para asilamiento electrico" style="width:35%;" />
-</p>
-
-<p align="center">
-<img src="./images/optocoupler.jpg" alt="Optoacoplador para asilamiento electrico" style="width:35%;" />
-</p>
-
 ## Demostración del funcionamiento
 
 [Video Demostrativo 1](URL)
 
-
-
-
+https://github.com/Ojcah/T_Instru_Lab3/assets/100172930/7d234241-b539-4572-a341-25ab4a70a9b2
 
