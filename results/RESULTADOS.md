@@ -1,5 +1,10 @@
 # Laboratorio III: Diseño de un sistema de adquisición de datos. Parte II
 
+## Integrantes:
+- Oscar Andrés Rojas Fonseca
+- Sharon Valverde Jiménez
+- Sebastián Vega Cerdas 
+
 # *Resultados del Lab3*
 
 ## Diseño de GUI
