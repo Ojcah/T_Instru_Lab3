@@ -65,7 +65,6 @@ Ahora se adicionando el amplificador operacional se vería de la siguiente forma
 
 ## Demostración del funcionamiento
 
-[Video Demostrativo 1](URL)
-
 https://github.com/Ojcah/T_Instru_Lab3/assets/100172930/7d234241-b539-4572-a341-25ab4a70a9b2
 
+[**VIDEO DEMOSTRATIVO 2**](https://github.com/Ojcah/T_Instru_Lab3/blob/main/results/images/Demo2.mp4)
