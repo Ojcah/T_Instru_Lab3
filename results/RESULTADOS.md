@@ -4,9 +4,13 @@
 
 ## Diseño de GUI
 
+Se muestran el diagrama de bloques generado para la lógica de los controles seleccionados dentro del GUI de LabView, donde es posible apreciar en cierto grado cada una se las secciones; lógica de seleccción de botones, recepción y envió de datos mediante *VISA* y el llamado realizado a la base de datos nombrada "proyecto3".
+
 <p align="center">
 <img src="./images/Bloques.jpg" alt="Diagrama de bloques del sistema GUI" style="width:100%;" />
 </p>
+
+Este diagrama se basa en el siguiente diseño de ventana.
 
 <p align="center">
 <img src="./images/GUI.jpg" alt="Interfaz del la GUI" style="width:50%;" />
@@ -14,9 +18,13 @@
 
 ### Base de Datos
 
+Para la base de datos se utilizó el software *SQL Server* para codificar el funcionamiento. Este fue guardado con el nombre "proyecto3", de manera que mediante este titulo se le implementó en el GUI de LabView.
+
 <p align="center">
 <img src="./images/BaseDatos.jpg" alt="Código de la Base de Datos SQL" style="width:50%;" />
 </p>
+
+Para ejemplificar el funcionamiento de la base de datos se muestran ciertos valores agregados mediante LabView.
 
 <p align="center">
 <img src="./images/BaseDatos2.jpg" alt="Ejemplo de los datos guardados en Base de Datos" style="width:50%;" />
@@ -63,4 +71,8 @@ Ahora se adicionando el amplificador operacional se vería de la siguiente forma
 ## Demostración del funcionamiento
 
 [Video Demostrativo 1](URL)
+
+
+
+
 
